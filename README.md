@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-💜-9D00FF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Linux%20User-💻-9D00FF?style=for-the-badge">
 </p>
 
 ---
