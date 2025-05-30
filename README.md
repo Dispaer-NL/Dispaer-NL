@@ -6,19 +6,10 @@
 
 ---
 
-## 🚀 About Me  
-
-- 💻 Currently working on **Atlas Anticheat**
-- 🔒 Passionate about **cybersecurity** & **automation**  
-- 📚 Always learning **new technologies**  
-- 🎨 Building **tools with custom UI & automation**  
-
----
-
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://discordapp.com/users/1296486810821591040">
+  <a href="https://discordapp.com/users/1364347287312142410">
     <img src="https://img.shields.io/badge/Discord-Contact%20Me-9D00FF?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
